@@ -1,0 +1,30 @@
+Please select a geometric object: 
+1 – Point 
+2 – Vector 
+3 – Line 
+4 – Segment 
+5 – Triange 
+6 - Tetrahedron 
+Please select an operation for the object: 
+1 - determine the type of triangle 
+2 - determine the area of triangle 
+3 - determine the perimeter of triangle 
+4 - finding the medicenter of the triangle by returning a Point object 
+1
+0, 0, 0
+Do you want to select a new operation (y/n)?y
+4
+0, 0, 0
+Medicenter =  4, 4.66667, 4
+Do you want to select a new operation (y/n)?n
+Do you want to select a new geometric object(y/n)?y
+Please select an operation for the object: 
+1 - to check that it is regular (all edges are equal) 
+2 - to check that it is orthogonal (every two opposite edges are perpendicular) 
+3 - to find the surrounding surface 
+4 - to find volume 
+4
+Point A: 2, 5, 6Point B: 1, 2, 3Point C: 1, 2, 3Point D: 5, 4, 6
+Volume = 0
+Do you want to select a new operation (y/n)?n
+Do you want to select a new geometric object(y/n)?n
